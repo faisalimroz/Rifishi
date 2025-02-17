@@ -9,13 +9,12 @@ const History = () => {
                         Our History
                     </h2>
                     <p className="text-gray-700 mb-4">
-                    OUR HISTORY
-                    The conglomerate started its humble beginning back in 1998 as freight forwarding company named First Freight Services. Later it was renamed to Asia Pacific logistics in an aim to establish itself as an independent third party logistics company (3PL). Then the group ventured into shipping industry with the shipping arm named Asia Pacific Shipping Lines in 2004. The distribution arm Asia Pacific Distribution of the group was formed in same year to distribute different international products locally in Bangladesh market.
+                   
+                    The conglomerate started its humble beginning back in 2015 as freight forwarding company.
                     </p>
                     <p className="text-gray-700 mb-4">
-                        In the pursuit of growth, the conglomerate is in search to venture
-                        into different other industries like Ready-made garments, Packaging,
-                        Textile Chemical, Footwear, and leather goods industries.
+                    Rifishi Traders is one of the most efficient importers & suppliers of all kinds of lightweight electrical, luxury goods, daily used accessories as well as gift items provider. We ensure a high-quality product at a reasonable price. We have an experienced team, the technical 
+                    person who provides the client satisfaction service. The customer is our first priority.
                     </p>
 
                 </div>

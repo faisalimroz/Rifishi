@@ -1,13 +1,13 @@
 import React from 'react';
 import Hero from '../../Components/Hero';
 import BusinessCard from '../../Components/BusinessCard/BusinessCard';
+import CompanyOverview from '../../Components/CompanyOverview/CompanyOverview';
 
 const Services = () => {
     return (
-        <div>
+        <div className='bg-gray-200'>
             <Hero Title={Services}></Hero>
-            //add a card here 
-
+             <CompanyOverview></CompanyOverview>
             <BusinessCard></BusinessCard>
         </div>
     );

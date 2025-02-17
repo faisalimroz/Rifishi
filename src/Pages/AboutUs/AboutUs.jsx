@@ -10,7 +10,6 @@ const AboutUs = () => {
         <div className='min-h-screen bg-gray-200'>
             <Hero Title={"About Us"}/>
             <History></History>
-            <CompanyOverview></CompanyOverview>
             <Owner></Owner>
             <BusinessCard></BusinessCard>
         </div>

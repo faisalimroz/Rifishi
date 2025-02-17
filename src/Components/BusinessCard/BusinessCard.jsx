@@ -7,7 +7,7 @@ const BusinessCard = () => {
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between">
           {/* Text Section */}
           <div className="md:w-2/3">
-            <h2 className="text-2xl font-bold text-gray-800">
+            <h2 className="text-2xl font-bold text-blue-600">
               DOING BUSINESS WITH US
             </h2>
             <p className="text-gray-600 mt-2">

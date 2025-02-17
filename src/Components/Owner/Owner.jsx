@@ -15,22 +15,20 @@ const Owner = () => {
       </div>
       
       <div className="text-gray-800 w-full">
-        <h2 className="text-xl md:text-2xl font-bold text-blue-600">CHAIRMAN'S MESSAGE</h2>
+        <h2 className="text-xl md:text-2xl font-bold text-blue-600">Founder's MESSAGE</h2>
         <p className="mt-2 text-sm md:text-base">
-          Greetings from Asia Pacific Conglomerate!
+          Greetings from Rifishi Traders
         </p>
         <p className="mt-2 text-sm md:text-base">
-          We are a multidimensional conglomerate specializing in Shipping and logistics industry in Bangladesh. The conglomerate has been in business for the last two decades. Our business stands on three core principles: integrity, efficiency, and innovation in process.
-        </p>
+
+        Since our inception in 2015, we have dedicated ourselves to becoming one of the leading importers and suppliers of lightweight electrical goods, luxury items, daily accessories, and unique gifts. Our commitment to quality and affordability is at the heart of everything we do.        </p>
         <p className="mt-2 text-sm md:text-base">
-          I hope that our website can guide and help you to understand in which businesses we are involved and our future forays.
-        </p>
+        At Rifishi Traders, we believe that customer satisfaction is paramount. Our experienced team, including skilled technical professionals, works tirelessly to ensure that every client receives the highest standard of service. We prioritize your needs and strive to exceed your expectations with every interaction.        </p>
         <p className="mt-2 text-sm md:text-base">
-          As a welcoming organization, we always appreciate new ideas and business opportunities. If you need any sort of assistance in our service areas or have a new business opportunity to discuss, please feel free to contact us.
-        </p>
-        <p className="mt-4 font-semibold">Best Regards,</p>
+        Thank you for choosing Rifishi Traders. We look forward to serving you!        </p>
+        <p className="mt-4 font-semibold">Warm Regards,</p>
         <p className="font-semibold">Shamima Khusi</p>
-        <p className="text-sm text-gray-600">Founding Chairman</p>
+        <p className="text-sm text-gray-600">Founder, Rifishi Traders</p>
       </div>
       
     </div>
