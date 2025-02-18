@@ -6,7 +6,7 @@ import CompanyOverview from '../../Components/CompanyOverview/CompanyOverview';
 const Services = () => {
     return (
         <div className='bg-gray-200'>
-            <Hero Title={Services}></Hero>
+            <Hero Title={"Services"}></Hero>
              <CompanyOverview></CompanyOverview>
             <BusinessCard></BusinessCard>
         </div>

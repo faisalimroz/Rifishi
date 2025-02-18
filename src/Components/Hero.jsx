@@ -1,5 +1,6 @@
 import React from 'react';
 import '../assets/save.jpg'
+import '../assets/rifi.jpg'
 const Hero = ({Title}) => {
     return (
         <div>

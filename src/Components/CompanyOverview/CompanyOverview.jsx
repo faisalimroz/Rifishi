@@ -9,7 +9,7 @@ const CompanyOverview = () => {
         </h2>
         <p className="text-gray-700 mb-4">
         Rifishi Traders is one of the most efficient importers & suppliers of all kinds of lightweight electrical, luxury goods, daily used accessories as well as gift items provider. We ensure a high-quality product at a reasonable price. We have an experienced team, the technical 
-        person who provides the client satisfaction service. The customer is our first priority..
+        person who provides the client satisfaction service. The customer is our first priority.
         </p>
       
       </div>
