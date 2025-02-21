@@ -50,7 +50,7 @@ const Footer = () => {
         <div>
           <h3 className="text-xl font-semibold">Contact Us</h3>
           <p className="mt-3 flex items-center gap-2">
-            <IoIosArrowDropright  className="text-yellow-500" /> info@example.com
+            <IoIosArrowDropright  className="text-yellow-500" /> info@rifishitraders.com
           </p>
           <p className="mt-2 flex items-center gap-2">
             <IoIosArrowDropright className="text-yellow-500" /> +8801682083636
