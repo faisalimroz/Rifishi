@@ -15,7 +15,7 @@ const Owner = () => {
       </div>
       
       <div className="text-gray-800 w-full">
-        <h2 className="text-xl md:text-2xl font-bold text-blue-600">Founder's MESSAGE</h2>
+        <h2 className="text-xl md:text-2xl font-bold text-blue-600">Founder Message</h2>
         <p className="mt-2 text-sm md:text-base">
           Greetings from Rifishi Traders
         </p>
