@@ -7,7 +7,7 @@ import PartnersCard from '../../Components/OurPartners/OurPartners';
 const Home = () => {
     return (
         <div className='bg-gray-200'>
-            <Hero Title={"Home"}></Hero>
+            <Hero Title={"WELCOME TO Rifishi Traders"}></Hero>
             <Card></Card>
             <PartnersCard></PartnersCard>
             <BusinessCard></BusinessCard>
